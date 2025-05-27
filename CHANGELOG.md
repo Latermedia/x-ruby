@@ -1,3 +1,6 @@
+## [0.15.4.later] - 2025-05-27
+* 66b10c4 Revert "Updates for Ruby 3.2"
+
 ## [0.15.4] - 2025-05-02
 * Use dedicated endpoints for chunked media upload (d54d0d0)
 
