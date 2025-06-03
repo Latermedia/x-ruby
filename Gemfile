@@ -4,7 +4,6 @@ source "https://rubygems.org"
 gemspec
 
 gem "fiddle", ">= 1.1.2"
-gem "irb", ">= 1.14.1"
 gem "minitest", ">= 5.19"
 gem "mutant", ">= 0.12"
 gem "mutant-minitest", ">= 0.11.24"
