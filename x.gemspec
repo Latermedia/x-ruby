@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.platform = Gem::Platform::RUBY
 
   spec.metadata = {
-    "allowed_push_host" => "https://rubygems.org",
+    "allowed_push_host" => "https://rubygems.pkg.github.com/Latermedia",
     "bug_tracker_uri" => "https://github.com/sferik/x-ruby/issues",
     "changelog_uri" => "https://github.com/sferik/x-ruby/blob/master/CHANGELOG.md",
     "documentation_uri" => "https://rubydoc.info/gems/x/",
